@@ -43,7 +43,7 @@ I'm a **Full Stack Developer** who loves crafting scalable and user-focused web 
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowthami-ekambaram/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowthami-ekambaram-8b021a2a2/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ekambaramgowthami759@example.com)
 
 ---
