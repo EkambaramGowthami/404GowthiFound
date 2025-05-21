@@ -27,11 +27,6 @@ I'm a **Full Stack Developer** who loves crafting scalable and user-focused web 
 
 
 
-**Tools & Platforms**
-- Docker, Git, GitHub Actions, Heroku, Google Cloud Platform
-- Webpack, Rollup, Sass, Styled Components, Prettier
-- Insomnia, Brave Browser
-
 ---
 
 ## 🌟 Featured Projects
@@ -39,17 +34,12 @@ I'm a **Full Stack Developer** who loves crafting scalable and user-focused web 
 | Project | Tech Used | Description |
 |--------|-----------|-------------|
 | 🚪 Outpass Manager | React, Node.js, MongoDB, Express | A MERN-based system for managing student outpasses with OTP verification and data visualization. |
-| 📊 DataViz Dashboard | D3.js, React | Interactive visualizations for real-time data insights using D3 and custom charts. |
-| 🔒 Auth System | Next.js, JWT, MongoDB | Full authentication system with registration, login, and role-based access. |
+| 🧠 Second Brain | Node.js,express, React | Interactive webpage in which we can post feed and filter feed and delete feed. |
+| 🔒 Auth System | Node.js, JWT, MongoDB | Full authentication system with registration, login, and role-based access. |
 
 ---
 
-## 📈 GitHub Stats
 
-![Gowthami's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
-
----
 
 ## 📬 Let's Connect
 
